@@ -1,0 +1,6 @@
+{
+  "name": "GPS CAM BY MMALI",
+  "description": "Professional field inspection camera and metadata watermarking app for Canon & Nikon cameras and mobile GPS capture with lossless EXIF re-injection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
